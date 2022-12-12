@@ -4,7 +4,7 @@ Reduxpy is an app made with python
 
 # What it does?
 
-It takes all the images in your folder and copy them in a new one, but with a reduced size on disk, this let lightweighted picturesw while loosing the least quality possible. 
+It takes all the images in your folder and copy them in a new one, but with a reduced size on disk, this let lightweighted pictures while loosing the least quality possible. 
 
 # How it works?
 
