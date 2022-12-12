@@ -8,7 +8,7 @@ It takes all the images in your folder and copy them in a new one, but with a re
 
 # How it works?
 
-Using a special library of python it takes the pictures and reduce their resolution in an 80%, is almost impercetible for 1080p, go a check it out for yourown! 
+Using a special library of python it takes the pictures and reduce their resolution in an 80%, is almost imperceptible for 1080p, go and check it out by your own!
 
 # How to run it?
 
