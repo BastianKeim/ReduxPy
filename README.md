@@ -14,7 +14,7 @@ Using a special library of python it takes the pictures and reduce their resolut
 
 Make sure of having python 3.0 or above, put the file in the folde where your JPG pictures are, and run the code, after running it, it will make a new folder called "reduxed" where you can find the new pics. You will not loose your old pics unless you delete them. 
 
-#Made with
+# Made with
 
 • Python 🐍
 
